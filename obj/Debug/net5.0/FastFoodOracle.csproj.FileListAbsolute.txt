@@ -1,0 +1,16 @@
+C:\Users\Matthew\source\repos\FastFoodOracle\bin\Debug\net5.0\FastFoodOracle.exe
+C:\Users\Matthew\source\repos\FastFoodOracle\bin\Debug\net5.0\FastFoodOracle.deps.json
+C:\Users\Matthew\source\repos\FastFoodOracle\bin\Debug\net5.0\FastFoodOracle.runtimeconfig.json
+C:\Users\Matthew\source\repos\FastFoodOracle\bin\Debug\net5.0\FastFoodOracle.runtimeconfig.dev.json
+C:\Users\Matthew\source\repos\FastFoodOracle\bin\Debug\net5.0\FastFoodOracle.dll
+C:\Users\Matthew\source\repos\FastFoodOracle\bin\Debug\net5.0\ref\FastFoodOracle.dll
+C:\Users\Matthew\source\repos\FastFoodOracle\bin\Debug\net5.0\FastFoodOracle.pdb
+C:\Users\Matthew\source\repos\FastFoodOracle\obj\Debug\net5.0\FastFoodOracle.csproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\FastFoodOracle\obj\Debug\net5.0\FastFoodOracle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\source\repos\FastFoodOracle\obj\Debug\net5.0\FastFoodOracle.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\FastFoodOracle\obj\Debug\net5.0\FastFoodOracle.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\FastFoodOracle\obj\Debug\net5.0\FastFoodOracle.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\FastFoodOracle\obj\Debug\net5.0\FastFoodOracle.dll
+C:\Users\Matthew\source\repos\FastFoodOracle\obj\Debug\net5.0\ref\FastFoodOracle.dll
+C:\Users\Matthew\source\repos\FastFoodOracle\obj\Debug\net5.0\FastFoodOracle.pdb
+C:\Users\Matthew\source\repos\FastFoodOracle\obj\Debug\net5.0\FastFoodOracle.genruntimeconfig.cache

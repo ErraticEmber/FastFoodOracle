@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFoodOracle", "FastFoodOracle.csproj", "{9CEFCB63-8A0A-4724-B4FB-D5932C92D027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CEFCB63-8A0A-4724-B4FB-D5932C92D027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CEFCB63-8A0A-4724-B4FB-D5932C92D027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CEFCB63-8A0A-4724-B4FB-D5932C92D027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CEFCB63-8A0A-4724-B4FB-D5932C92D027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AD4A5B0-2DE2-46AF-89F3-88068A37C9C6}
+	EndGlobalSection
+EndGlobal

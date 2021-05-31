@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FastFoodOracle/1.0.0": {
+        "runtime": {
+          "FastFoodOracle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FastFoodOracle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
